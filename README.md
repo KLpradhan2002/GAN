@@ -1,4 +1,4 @@
-#Before start the program we need to downlod bellow things
+# Before start the program we need to downlod bellow things
 
 py -3.10 -m venv myvenv
 
@@ -10,4 +10,4 @@ pip install matplotlib numpy
 
 pip install jupyter notebook
 
-# It uses celeba data set which link was already given inside code section
+# It uses celeba data-set which link was already given inside GAN.ipynb file
